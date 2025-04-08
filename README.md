@@ -1,1 +1,6 @@
-# MyprojectICT2m1
+# Group final project
+# Members:
+
+Delacruz, J
+Arce
+Elardo
